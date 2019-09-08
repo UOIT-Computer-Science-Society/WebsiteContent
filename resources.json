@@ -1,7 +1,32 @@
 [
   {
-    "title": "CSSOC",
-    "link": "http://www.uoit-cssoc.ca",
-    "desc": "The Homepage of UOIT CSSOC"
+    "title": "Discord",
+    "link": "https://discord.gg/MMjusd4",
+    "desc": "Our Discord Community!"
+  },
+  {
+    "title": "Instagram",
+    "link": "https://www.instagram.com/otcssoc/",
+    "desc": "Where we post EVERYTHING!"
+  },
+  {
+    "title": "Facebook page",
+    "link": "https://www.facebook.com/OTCSSOC/",
+    "desc": "We post here too!"
+  },
+  {
+    "title": "Google Calendar",
+    "link": "https://calendar.google.com/calendar/b/3?cid=cHRhdWJlY25mNm50YzdpN2hnYjF1a2E1MzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+    "desc": "The google calendar version of our events page."
+  },
+  {
+    "title": "Facebook group",
+    "link": "https://www.facebook.com/groups/1344259595641847/",
+    "desc": "Where it all started."
+  },
+  {
+    "title": "Twitter",
+    "link": "https://twitter.com/OTCSSOC",
+    "desc": "Yeah, I guess we have twitter too..."
   }
 ]
